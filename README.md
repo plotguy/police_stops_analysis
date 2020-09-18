@@ -10,4 +10,5 @@ Steps to get data:
 * unzip data/sc_statewide_2020_04_01.csv.zip
 
 * pip3 install jupyterlab
+* cd analysis
 * jupyter lab
